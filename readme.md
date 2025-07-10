@@ -50,8 +50,8 @@ npm run dev
 
 ## 🧃 Ekstra Not
 
-- Bu proje “flört gibi ama sevgili değil” hissi verir. O yüzden abartmadan sev.
-- Nil’in kedisi gerçekten var mı bilmiyoruz. Ama **Kraker** bizden biri.
+- Bu projeyi, Kendi favori kişinize hediye edin 🥰 Önce sevin sonra sevilin.
+- Nil’in kedisini kaçıracağız. **Kraker** bizden biri.
 
 ---
 
